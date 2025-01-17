@@ -26,18 +26,27 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
 
 Example App 1: RedNote
+
 Smooth flow of information
+
 Interactive message screen
+
 Good UI
 
 Example App 2: Tiktok
+
 Creative content
+
 Intuitive interaction
+
 Cute emoji
 
 Example App 2: Snapchat
+
 Private content
+
 Smooth UI
+
 Social vibe on map
 
 
